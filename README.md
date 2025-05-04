@@ -2,9 +2,10 @@
 
 <div align="center">
   <h1><b><code>RedBERT</code> Summarize & Sentiment Analyzer</b></h1>
-  <p><strong>RedBERT</strong> is a desktop NLP tool that summarizes and analyzes text sentiment using powerful BERT-based models inside a beautiful red-themed GUI.</p>
+  <p><strong>RedBERT</strong> is a desktop NLP tool that summarizes and analyzes text sentiment using powerful BERT-based models inside a beautiful red-themed GUI. Built with <code>Python</code>, <code>PyTorch</code>, and <code>HuggingFace Transformers</code> — all in a clean, themed <code>Tkinter</code> GUI.</p>
 
   <p>
+    <a href="https://s-m-quadri.me/redbert">Homepage</a> ·
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment">Repository</a> ·
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">Download EXE</a> ·
     <a href="mailto:dev.smq@gmail.com">Contact</a> ·
@@ -27,27 +28,24 @@
   <p>
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a> · 
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a> · 
-    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/discussions/new?category=q-a">Ask Question</a>
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/discussions/new?category=q-a">Ask Question</a> · 
+    <a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md">Support 🇵🇸 Palestine<a>
   </p>
 </div>
 
 
-# 🔴 RedBERT: Summarize & Sentiment Analysis GUI
+### 📌 Features
 
-A desktop application to **summarize** and analyze the **sentiment** of any text using state-of-the-art **BERT** models from HuggingFace — all in a clean, themed **Tkinter GUI**.
+- **Text Summarization** powered by `BART` (HuggingFace Transformers)
+- **Sentiment Analysis** using `distilBERT`
+- Desktop GUI built with `Tkinter` (Python standard GUI library)
+- Custom red-themed interface with live status updates
+- Clean layout with non-editable summary, real-time feedback
+- One-click `.exe` build available in the [Releases](../../releases) section
 
-### ✨ Features
+### 📌 Getting Started
 
-- 🔍 **Text Summarization** powered by `BART` (HuggingFace Transformers)
-- 😊 **Sentiment Analysis** using `distilBERT`
-- 🖥️ Desktop GUI built with `Tkinter` (Python standard GUI library)
-- 🎨 Custom red-themed interface with live status updates
-- ✅ Clean layout with non-editable summary, real-time feedback
-- 📦 One-click `.exe` build available in the [Releases](../../releases) section
-
-### 🚀 Getting Started
-
-#### ✅ Prerequisites
+#### 1. Prerequisites
 
 - Python `3.11.0` (used during development)
 - Create and activate a virtual environment (recommended)
@@ -55,21 +53,21 @@ A desktop application to **summarize** and analyze the **sentiment** of any text
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-````
+```
 
-#### 📦 Install Dependencies
+#### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 🖥️ Run the App
+#### 3. Run the App
 
 ```bash
 python gui.py
 ```
 
-### 🛠️ Packaging into `.exe`
+#### 4. Packaging into `.exe`
 
 To build the standalone `.exe`:
 
@@ -81,7 +79,7 @@ pyinstaller setup.spec
 > The `.exe` will be available in `dist/Red Bert.exe`
 > Or simply download it from the [Releases](../../releases) tab.
 
-### 📁 Project Structure
+### 📌 Project Structure
 
 ```
 redbert-summarize-sentiment/
@@ -91,18 +89,17 @@ redbert-summarize-sentiment/
 └── setup.spec           # PyInstaller configuration
 ```
 
-### 🧠 Built With
+### 📌 Built With
 
 * [Transformers (HuggingFace)](https://huggingface.co/transformers/)
 * [PyTorch](https://pytorch.org/)
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 * [PyInstaller](https://pyinstaller.org/)
 
-### 📜 License
+### 📌 License
 
 This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
 
+### 📌 Contributing
 
-### ⭐️ Support
-
-If you find this helpful, please consider giving it a ⭐️ or sharing it!
+Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request. If you find this helpful, please consider giving it a ⭐️ or sharing it! Contact at the link provided above, in case of any questions or suggestions.
