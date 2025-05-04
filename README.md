@@ -1,3 +1,37 @@
+![thumbnail](https://github.com/user-attachments/assets/8de0144b-5401-41dc-8747-0f738ee5394b)
+
+<div align="center">
+  <h1><b><code>RedBERT</code> Summarize & Sentiment Analyzer</b></h1>
+  <p><strong>RedBERT</strong> is a desktop NLP tool that summarizes and analyzes text sentiment using powerful BERT-based models inside a beautiful red-themed GUI.</p>
+
+  <p>
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment">Repository</a> ·
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">Download EXE</a> ·
+    <a href="mailto:dev.smq@gmail.com">Contact</a> ·
+  </p>
+
+  <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">
+    <img src="https://custom-icon-badges.demolab.com/github/v/tag/s-m-quadri/redbert-summarize-sentiment?label=Version&labelColor=302d41&color=f2cdcd&logoColor=d9e0ee&logo=tag&style=for-the-badge" alt="Release Version"/>
+  </a>
+  <a href="https://www.codefactor.io/repository/github/s-m-quadri/redbert-summarize-sentiment"><img src="https://img.shields.io/codefactor/grade/github/s-m-quadri/redbert-summarize-sentiment?label=CodeFactor&labelColor=302d41&color=8bd5ca&logoColor=d9e0ee&logo=codefactor&style=for-the-badge" alt="GitHub Readme Profile Code Quality"/></a>
+  <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues">
+    <img src="https://custom-icon-badges.demolab.com/github/issues/s-m-quadri/redbert-summarize-sentiment?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/>
+  </a>
+  <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/pulls">
+    <img src="https://custom-icon-badges.demolab.com/github/issues-pr/s-m-quadri/redbert-summarize-sentiment?label=PRs&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="Pull Requests"/>
+  </a>
+  <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/graphs/contributors">
+    <img src="https://custom-icon-badges.demolab.com/github/contributors/s-m-quadri/redbert-summarize-sentiment?label=Contributors&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&logo=people&style=for-the-badge" alt="Contributors"/>
+  </a>
+
+  <p>
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a> · 
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a> · 
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/discussions/new?category=q-a">Ask Question</a>
+  </p>
+</div>
+
+
 # 🔴 RedBERT: Summarize & Sentiment Analysis GUI
 
 A desktop application to **summarize** and analyze the **sentiment** of any text using state-of-the-art **BERT** models from HuggingFace — all in a clean, themed **Tkinter GUI**.
@@ -10,10 +44,6 @@ A desktop application to **summarize** and analyze the **sentiment** of any text
 - 🎨 Custom red-themed interface with live status updates
 - ✅ Clean layout with non-editable summary, real-time feedback
 - 📦 One-click `.exe` build available in the [Releases](../../releases) section
-
-### 📷 Screenshot
-
-> *Coming soon – or add one here!*
 
 ### 🚀 Getting Started
 
