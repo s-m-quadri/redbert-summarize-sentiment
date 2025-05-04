@@ -5,7 +5,7 @@
   <p><strong>RedBERT</strong> is a desktop NLP tool that summarizes and analyzes text sentiment using powerful BERT-based models inside a beautiful red-themed GUI. Built with <code>Python</code>, <code>PyTorch</code>, and <code>HuggingFace Transformers</code> — all in a clean, themed <code>Tkinter</code> GUI.</p>
 
   <p>
-    <a href="https://s-m-quadri.me/redbert">Homepage</a> ·
+    <a href="https://s-m-quadri.me/projects/redbert">Homepage</a> ·
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment">Repository</a> ·
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">Download EXE</a> ·
     <a href="mailto:dev.smq@gmail.com">Contact</a> ·
