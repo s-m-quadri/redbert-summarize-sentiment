@@ -2,6 +2,13 @@ import tkinter as tk
 from tkinter import scrolledtext
 import threading
 import logic
+import sys
+import os
+
+def resource_path(relative_path):
+    if hasattr(sys, "_MEIPASS"):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 # Theme colors
 BG_COLOR = "#ffe0e0"
@@ -52,6 +59,7 @@ def update_status(message, color):
 # Main GUI window
 app = tk.Tk()
 app.title("BERT Summarizer + Sentiment Analyzer")
+app.iconbitmap(resource_path("icon.ico"))
 app.configure(bg=BG_COLOR)
 app.geometry("800x600")
 app.resizable(False, False)
