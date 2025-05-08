@@ -7,12 +7,11 @@
   <p>
     <a href="https://s-m-quadri.me/projects/redbert">Homepage</a> ·
     <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment">Repository</a> ·
-    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">Download EXE</a> ·
-    <a href="mailto:dev.smq@gmail.com">Contact</a> ·
+    <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">Download Executable</a> ·
+    <a href="mailto:dev.smq@gmail.com">Contact</a>
   </p>
 
   <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/releases">
-    <img src="https://custom-icon-badges.demolab.com/github/v/tag/s-m-quadri/redbert-summarize-sentiment?label=Version&labelColor=302d41&color=f2cdcd&logoColor=d9e0ee&logo=tag&style=for-the-badge" alt="Release Version"/>
   </a>
   <a href="https://www.codefactor.io/repository/github/s-m-quadri/redbert-summarize-sentiment"><img src="https://img.shields.io/codefactor/grade/github/s-m-quadri/redbert-summarize-sentiment?label=CodeFactor&labelColor=302d41&color=8bd5ca&logoColor=d9e0ee&logo=codefactor&style=for-the-badge" alt="GitHub Readme Profile Code Quality"/></a>
   <a href="https://github.com/s-m-quadri/redbert-summarize-sentiment/issues">
